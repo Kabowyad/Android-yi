@@ -16,4 +16,7 @@ class MathTest {
 
     @Test
     fun foo_bar3() {}
+
+    @Test
+    fun foo_bar4() {}
 }
