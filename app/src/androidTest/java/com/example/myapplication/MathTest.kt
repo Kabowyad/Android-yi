@@ -10,4 +10,7 @@ import org.junit.runner.RunWith
 class MathTest {
     @Test
     fun foo_bar() {}
+
+    @Test
+    fun foo_bar2() {}
 }
